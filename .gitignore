@@ -1,0 +1,6 @@
+xcuserdata/
+Pods/
+.DS_Store
+Moya-SelfSignedCertificate.app.dSYM.zip
+Moya-SelfSignedCertificate.ipa
+Moya-SelfSignedCertificate.xcodeproj/xcuserdata/
